@@ -1,0 +1,21 @@
+Product Name,SKU/ID,Supplier,Last Ordered Date,Restocking Time (Days),Next Order Due,Avg. Order Frequency
+Paracetamol 500mg,SKU001,Supplier A,2024-11-01,30,2024-12-01,30 Days
+Amoxicillin 250mg,SKU002,Supplier B,2024-11-15,15,2024-11-30,20 Days
+Ibuprofen 200mg,SKU003,Supplier C,2024-11-10,30,2024-12-10,35 Days
+Acetaminophen 500mg,SKU004,Supplier D,2024-11-01,25,2024-11-26,28 Days
+Lisinopril 10mg,SKU005,Supplier E,2024-11-05,20,2024-11-25,22 Days
+Loratadine 10mg,SKU006,Supplier F,2024-11-10,15,2024-11-25,18 Days
+Cefalexin 500mg,SKU007,Supplier G,2024-11-12,40,2024-12-22,45 Days
+Ciprofloxacin 250mg,SKU008,Supplier H,2024-11-05,25,2024-11-30,30 Days
+Simvastatin 20mg,SKU009,Supplier I,2024-11-15,35,2024-12-20,40 Days
+Omeprazole 20mg,SKU010,Supplier J,2024-11-10,30,2024-12-10,33 Days
+Doxycycline 100mg,SKU011,Supplier K,2024-11-18,20,2024-12-08,25 Days
+Prednisone 5mg,SKU012,Supplier L,2024-11-01,30,2024-12-01,30 Days
+Metformin 500mg,SKU013,Supplier M,2024-11-07,25,2024-11-30,28 Days
+Furosemide 40mg,SKU014,Supplier N,2024-11-11,40,2024-12-21,45 Days
+Gabapentin 300mg,SKU015,Supplier O,2024-11-13,30,2024-12-13,35 Days
+Amlodipine 5mg,SKU016,Supplier P,2024-11-02,20,2024-11-22,25 Days
+Clopidogrel 75mg,SKU017,Supplier Q,2024-11-08,30,2024-12-08,35 Days
+Hydrochlorothiazide,SKU018,Supplier R,2024-11-14,20,2024-12-04,25 Days
+Losartan 50mg,SKU019,Supplier S,2024-11-09,30,2024-12-09,33 Days
+Atenolol 25mg,SKU020,Supplier T,2024-11-03,15,2024-11-18,20 Days

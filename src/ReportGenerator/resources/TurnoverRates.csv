@@ -1,0 +1,21 @@
+Product Name,SKU/ID,Sales/Month,Average Days in Stock,Turnover Rate,Last Dispensed Date
+Paracetamol 500mg,SKU001,300,15,20x,2024-11-23
+Amoxicillin 250mg,SKU002,50,90,5x,2024-11-20
+Ibuprofen 200mg,SKU003,250,20,12.5x,2024-11-18
+Acetaminophen 500mg,SKU004,400,10,40x,2024-11-19
+Lisinopril 10mg,SKU005,120,60,2x,2024-11-15
+Cetirizine 10mg,SKU006,150,25,6x,2024-11-12
+Diphenhydramine 25mg,SKU007,200,40,5x,2024-11-11
+Atenolol 25mg,SKU008,180,35,5.14x,2024-11-10
+Metformin 500mg,SKU009,100,80,1.25x,2024-11-08
+Simvastatin 20mg,SKU010,90,60,1.5x,2024-11-07
+Omeprazole 20mg,SKU011,220,45,4.89x,2024-11-06
+Furosemide 40mg,SKU012,150,30,5x,2024-11-05
+Levothyroxine 50mcg,SKU013,120,60,2x,2024-11-04
+Doxycycline 100mg,SKU014,80,45,1.78x,2024-11-03
+Clopidogrel 75mg,SKU015,100,30,3.33x,2024-11-02
+Spironolactone 25mg,SKU016,60,50,1.2x,2024-11-01
+Prednisone 10mg,SKU017,150,60,2.5x,2024-10-30
+Losartan 50mg,SKU018,140,70,2x,2024-10-29
+Hydrocodone 5mg,SKU019,180,20,9x,2024-10-28
+Hydrocodone 10mg,SKU020,130,40,3.25x,2024-10-27

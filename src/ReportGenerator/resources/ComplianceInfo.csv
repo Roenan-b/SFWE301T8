@@ -1,0 +1,21 @@
+Product Name,SKU/ID,Controlled Substance,Quantity Dispensed,Dispensing Log ID,Audit Date,Audit Result
+Morphine 10mg,SKU100,Yes,15,LOG123,2024-11-22,Passed
+Oxycodone 5mg,SKU101,Yes,10,LOG124,2024-11-21,Passed
+Fentanyl 50mcg,SKU102,Yes,5,LOG125,2024-11-20,Passed
+Diazepam 10mg,SKU103,Yes,20,LOG126,2024-11-19,Passed
+Hydrocodone 5mg,SKU104,Yes,12,LOG127,2024-11-18,Passed
+Methadone 10mg,SKU105,Yes,7,LOG128,2024-11-17,Passed
+Oxycodone 10mg,SKU106,Yes,8,LOG129,2024-11-16,Passed
+Codeine 30mg,SKU107,Yes,25,LOG130,2024-11-15,Passed
+Hydrocodone 10mg,SKU108,Yes,30,LOG131,2024-11-14,Passed
+Alprazolam 2mg,SKU109,Yes,18,LOG132,2024-11-13,Passed
+Lorazepam 1mg,SKU110,Yes,14,LOG133,2024-11-12,Passed
+Methadone 20mg,SKU111,Yes,5,LOG134,2024-11-11,Passed
+Clonazepam 0.5mg,SKU112,Yes,10,LOG135,2024-11-10,Passed
+Fentanyl 100mcg,SKU113,Yes,2,LOG136,2024-11-09,Passed
+Morphine 5mg,SKU114,Yes,12,LOG137,2024-11-08,Passed
+Tramadol 50mg,SKU115,Yes,22,LOG138,2024-11-07,Passed
+Buprenorphine 8mg,SKU116,Yes,15,LOG139,2024-11-06,Passed
+Dextropropoxyphene 100mg,SKU117,Yes,8,LOG140,2024-11-05,Passed
+Carisoprodol 350mg,SKU118,Yes,30,LOG141,2024-11-04,Passed
+Methylphenidate 5mg,SKU119,Yes,10,LOG142,2024-11-03,Passed

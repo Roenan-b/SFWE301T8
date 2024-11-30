@@ -1,0 +1,21 @@
+Product Name,SKU/ID,Current Quantity,Expiry Date,Days to Expiry,Expired,Waste Quantity
+Paracetamol 500mg,SKU001,10,2024-11-25,1,No,0
+Amoxicillin 250mg,SKU002,5,2024-11-20,-4,Yes,5
+Ibuprofen 200mg,SKU003,50,2024-12-15,20,No,0
+Acetaminophen 500mg,SKU004,150,2024-11-28,3,No,0
+Lisinopril 10mg,SKU005,20,2024-12-10,16,No,0
+Diclofenac 50mg,SKU006,30,2024-12-05,11,No,0
+Loratadine 10mg,SKU007,60,2024-11-18,-7,Yes,10
+Paracetamol 500mg,SKU008,80,2024-11-22,-2,Yes,10
+Metformin 500mg,SKU009,100,2024-12-01,6,No,0
+Hydrocodone 5mg,SKU010,25,2024-11-29,5,No,0
+Furosemide 40mg,SKU011,10,2024-11-30,6,No,0
+Ciprofloxacin 250mg,SKU012,40,2024-12-10,16,No,0
+Omeprazole 20mg,SKU013,60,2024-11-23,0,No,0
+Vitamin C 500mg,SKU014,200,2024-11-25,1,No,0
+Clonazepam 1mg,SKU015,15,2024-11-21,-3,Yes,3
+Atorvastatin 10mg,SKU016,50,2024-12-15,20,No,0
+Tamsulosin 0.4mg,SKU017,30,2024-12-01,6,No,0
+Ranitidine 150mg,SKU018,80,2024-11-20,-4,Yes,5
+Prednisone 10mg,SKU019,20,2024-12-10,16,No,0
+Diphenhydramine 25mg,SKU020,70,2024-11-25,1,No,0

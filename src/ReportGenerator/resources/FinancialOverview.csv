@@ -1,0 +1,21 @@
+Product Name,SKU/ID,Unit Cost,Current Quantity,Total Value,Sales in Period,COGS
+Paracetamol 500mg,SKU001,$1.00,120,$120.00,$300,$180
+Amoxicillin 250mg,SKU002,$5.00,30,$150.00,$250,$200
+Ibuprofen 200mg,SKU003,$2.50,180,$450.00,$600,$400
+Acetaminophen 500mg,SKU004,$0.80,200,$160.00,$500,$320
+Lisinopril 10mg,SKU005,$4.00,90,$360.00,$200,$160
+Ciprofloxacin 500mg,SKU006,$6.00,150,$900.00,$450,$300
+Loratadine 10mg,SKU007,$0.75,250,$187.50,$100,$75
+Simvastatin 20mg,SKU008,$1.20,200,$240.00,$500,$400
+Prednisone 10mg,SKU009,$2.00,100,$200.00,$180,$120
+Metformin 500mg,SKU010,$0.90,180,$162.00,$300,$180
+Omeprazole 20mg,SKU011,$1.50,130,$195.00,$220,$150
+Atorvastatin 10mg,SKU012,$3.50,110,$385.00,$320,$200
+Furosemide 40mg,SKU013,$0.50,200,$100.00,$250,$150
+Naproxen 250mg,SKU014,$1.80,220,$396.00,$300,$180
+Tamsulosin 0.4mg,SKU015,$2.50,170,$425.00,$200,$150
+Clonazepam 1mg,SKU016,$3.00,120,$360.00,$240,$150
+Loperamide 2mg,SKU017,$0.30,300,$90.00,$80,$50
+Gabapentin 300mg,SKU018,$4.00,150,$600.00,$450,$300
+Fluoxetine 20mg,SKU019,$1.20,220,$264.00,$210,$140
+Doxycycline 100mg,SKU020,$3.20,100,$320.00,$230,$180

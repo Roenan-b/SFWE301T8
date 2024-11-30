@@ -1,0 +1,21 @@
+User ID,User Name,Role,Login Date,Login Time,Logout Date,Logout Time,Session Duration,Actions Performed,IP Address,Device Type,Status
+U001,John Doe,Pharmacist,2024-11-01,8:15 AM,2024-11-01,5:00 PM,8 hours 45 mins,"Filled prescriptions, Checked stock",192.168.1.1,Desktop,Active
+U002,Jane Smith,Pharmacy Owner,2024-11-01,9:00 AM,2024-11-01,4:45 PM,7 hours 45 mins,"Generated reports, Managed users",192.168.1.2,Desktop,Active
+U003,Alex Brown,Pharmacy Tech,2024-11-01,10:05 AM,2024-11-01,2:30 PM,4 hours 25 mins,Assisted with filling prescriptions,192.168.1.3,Mobile,Active
+U004,Emily White,Pharmacist,2024-11-02,8:30 AM,2024-11-02,4:15 PM,7 hours 45 mins,"Reviewed prescriptions, Stock check",192.168.1.4,Desktop,Active
+U005,Robert Black,Pharmacy Tech,2024-11-02,9:00 AM,2024-11-02,3:00 PM,6 hours,"Assisted customers, Verified orders",192.168.1.5,Mobile,Active
+U006,Patricia Gray,Pharmacy Owner,2024-11-03,8:00 AM,2024-11-03,12:00 PM,4 hours,"Managed inventory, Reviewed reports",192.168.1.6,Desktop,Active
+U007,David Green,Pharmacist,2024-11-03,10:10 AM,2024-11-03,4:45 PM,6 hours 35 mins,"Dispensed prescriptions, Consulted with patients",192.168.1.7,Mobile,Active
+U008,Linda Blue,Pharmacy Tech,2024-11-04,11:00 AM,2024-11-04,5:00 PM,6 hours,"Filled prescriptions, Assisted with patient queries",192.168.1.8,Desktop,Active
+U009,Thomas Red,Pharmacist,2024-11-04,9:30 AM,2024-11-04,4:00 PM,6 hours 30 mins,"Checked medication stocks, Dispensed prescriptions",192.168.1.9,Desktop,Active
+U010,Jessica Gold,Pharmacy Tech,2024-11-05,9:00 AM,2024-11-04,2:00 PM,5 hours,"Assisted with prescription filling, Checked inventory",192.168.1.10,Mobile,Active
+U011,John Green,Pharmacy Owner,2024-11-05,8:45 AM,2024-11-05,3:30 PM,6 hours 45 mins,"Managed prescriptions, Generated reports",192.168.1.11,Desktop,Active
+U012,Lisa White,Pharmacist,2024-11-06,8:15 AM,2024-11-06,5:15 PM,9 hours,"Dispensed medications, Reviewed reports",192.168.1.12,Desktop,Active
+U013,James Black,Pharmacy Tech,2024-11-06,10:00 AM,2024-11-06,4:30 PM,6 hours 30 mins,"Verified prescriptions, Assisted customers",192.168.1.13,Mobile,Active
+U014,Helen Brown,Pharmacy Owner,2024-11-07,9:00 AM,2024-11-07,2:30 PM,5 hours 30 mins,"Managed pharmacy inventory, Reviewed reports",192.168.1.14,Desktop,Active
+U015,Pat Clark,Pharmacist,2024-11-07,8:45 AM,2024-11-07,5:00 PM,8 hours 15 mins,"Dispensed prescriptions, Stock check",192.168.1.15,Desktop,Active
+U016,Brenda Allen,Pharmacy Tech,2024-11-08,9:30 AM,2024-11-08,4:45 PM,7 hours 15 mins,"Filled prescriptions, Assisted with customer service",192.168.1.16,Mobile,Active
+U017,Mike Richards,Pharmacy Owner,2024-11-08,10:00 AM,2024-11-08,3:00 PM,5 hours,"Reviewed pharmacy operations, Generated reports",192.168.1.17,Desktop,Active
+U018,Gary Fox,Pharmacist,2024-11-09,8:30 AM,2024-11-09,4:15 PM,7 hours 45 mins,"Dispensed medications, Checked stocks",192.168.1.18,Desktop,Active
+U019,Rachel Harris,Pharmacy Tech,2024-11-09,9:00 AM,2024-11-09,2:45 PM,5 hours 45 mins,"Assisted with prescriptions, Managed customer queries",192.168.1.19,Mobile,Active
+U020,Tom Roberts,Pharmacist,2024-11-10,8:45 AM,2024-11-10,4:00 PM,7 hours 15 mins,"Filled prescriptions, Assisted with patient consultations",192.168.1.20,Desktop,Active
