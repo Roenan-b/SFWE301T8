@@ -1,0 +1,21 @@
+Date,Product Name,SKU/ID,Quantity Dispensed,Cumulative Total,Seasonal Demand
+2024-11-01,Paracetamol 500mg,SKU001,50,50,Cold/Flu Season
+2024-11-02,Amoxicillin 250mg,SKU002,10,60,Cold/Flu Season
+2024-11-03,Ibuprofen 200mg,SKU003,30,30,Allergy Season
+2024-11-04,Acetaminophen 500mg,SKU004,40,40,Pain Relief
+2024-11-05,Lisinopril 10mg,SKU005,20,20,Regular
+2024-11-06,Paracetamol 500mg,SKU001,50,100,Cold/Flu Season
+2024-11-07,Amoxicillin 250mg,SKU002,15,75,Cold/Flu Season
+2024-11-08,Ibuprofen 200mg,SKU003,40,70,Allergy Season
+2024-11-09,Acetaminophen 500mg,SKU004,60,100,Pain Relief
+2024-11-10,Lisinopril 10mg,SKU005,15,35,Regular
+2024-11-11,Paracetamol 500mg,SKU001,30,130,Cold/Flu Season
+2024-11-12,Amoxicillin 250mg,SKU002,5,80,Cold/Flu Season
+2024-11-13,Ibuprofen 200mg,SKU003,50,120,Allergy Season
+2024-11-14,Acetaminophen 500mg,SKU004,30,130,Pain Relief
+2024-11-15,Lisinopril 10mg,SKU005,25,60,Regular
+2024-11-16,Paracetamol 500mg,SKU001,60,190,Cold/Flu Season
+2024-11-17,Amoxicillin 250mg,SKU002,20,100,Cold/Flu Season
+2024-11-18,Ibuprofen 200mg,SKU003,30,150,Allergy Season
+2024-11-19,Acetaminophen 500mg,SKU004,50,180,Pain Relief
+2024-11-20,Lisinopril 10mg,SKU005,10,70,Regular

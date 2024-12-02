@@ -1,0 +1,21 @@
+Prescription ID,Patient Name,Patient ID,Pharmacist Name,Prescription Date,Drug Name,Drug SKU/ID,Drug Type,Quantity Dispensed,Dosage Instructions,Prescription Type,Insurance Coverage,Prescription Status,Additional Notes
+PRES001,John Doe,P001,Sarah Johnson,2024-11-01,Paracetamol 500mg,SKU001,Tablet,30,Take 1 tablet every 6 hours,New,Yes,Filled,None
+PRES002,Jane Smith,P002,Michael Lee,2024-11-02,Amoxicillin 250mg,SKU002,Capsule,20,Take 1 capsule twice daily,Refill,No,Filled,None
+PRES003,Sam Brown,P003,Olivia Williams,2024-11-03,Ibuprofen 200mg,SKU003,Tablet,40,Take 1 tablet every 4 hours,New,Yes,Filled,None
+PRES004,Emily Clark,P004,James Cooper,2024-11-04,Paracetamol 500mg,SKU001,Tablet,10,Take 1 tablet every 6 hours,New,Yes,Filled,None
+PRES005,William King,P005,Sarah Johnson,2024-11-05,Amoxicillin 250mg,SKU002,Capsule,50,Take 1 capsule twice daily,Refill,Yes,Filled,None
+PRES006,Olivia Davis,P006,Michael Lee,2024-11-06,Ibuprofen 200mg,SKU003,Tablet,60,Take 1 tablet every 4 hours,New,No,Pending,None
+PRES007,Sophia Martinez,P007,Olivia Williams,2024-11-07,Paracetamol 500mg,SKU001,Tablet,15,Take 1 tablet every 6 hours,New,Yes,Filled,None
+PRES008,Michael White,P008,James Cooper,2024-11-08,Amoxicillin 250mg,SKU002,Capsule,25,Take 1 capsule twice daily,Refill,No,Pending,None
+PRES009,Emma Harris,P009,Sarah Johnson,2024-11-09,Ibuprofen 200mg,SKU003,Tablet,20,Take 1 tablet every 4 hours,New,Yes,Filled,None
+PRES010,Jacob Lewis,P010,Michael Lee,2024-11-10,Paracetamol 500mg,SKU001,Tablet,40,Take 1 tablet every 6 hours,Refill,No,Filled,None
+PRES011,Isabella Scott,P011,Olivia Williams,2024-11-11,Amoxicillin 250mg,SKU002,Capsule,30,Take 1 capsule twice daily,New,Yes,Pending,None
+PRES012,Daniel Hall,P012,James Cooper,2024-11-12,Ibuprofen 200mg,SKU003,Tablet,50,Take 1 tablet every 4 hours,Refill,No,Filled,None
+PRES013,Natalie Young,P013,Sarah Johnson,2024-11-13,Paracetamol 500mg,SKU001,Tablet,10,Take 1 tablet every 6 hours,New,Yes,Pending,None
+PRES014,Thomas Adams,P014,Michael Lee,2024-11-14,Amoxicillin 250mg,SKU002,Capsule,60,Take 1 capsule twice daily,New,Yes,Filled,None
+PRES015,Laura Nelson,P015,Olivia Williams,2024-11-15,Ibuprofen 200mg,SKU003,Tablet,25,Take 1 tablet every 4 hours,Refill,Yes,Filled,None
+PRES016,David Carter,P016,James Cooper,2024-11-16,Paracetamol 500mg,SKU001,Tablet,20,Take 1 tablet every 6 hours,New,No,Filled,None
+PRES017,Benjamin Hill,P017,Sarah Johnson,2024-11-17,Amoxicillin 250mg,SKU002,Capsule,15,Take 1 capsule twice daily,New,Yes,Pending,None
+PRES018,Abigail Green,P018,Michael Lee,2024-11-18,Ibuprofen 200mg,SKU003,Tablet,35,Take 1 tablet every 4 hours,Refill,No,Filled,None
+PRES019,Anthony Turner,P019,Olivia Williams,2024-11-19,Paracetamol 500mg,SKU001,Tablet,50,Take 1 tablet every 6 hours,New,Yes,Filled,None
+PRES020,Charlotte Thomas,P020,James Cooper,2024-11-20,Amoxicillin 250mg,SKU002,Capsule,10,Take 1 capsule twice daily,Refill,Yes,Filled,None

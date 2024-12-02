@@ -1,0 +1,21 @@
+Patient Name,Contact Info,Age,Prescription ID,Medication Name,Dosage,Prescribing Doctor,Doctor Contact Info,Fill ID,Original Fill Date,Refill Date(s),Quantity Dispensed,Status,Pharmacy Location,Pharmacy Staff,Employee IDs,Refill Frequency,Reason for Non-Refills
+John Doe,123-456-7890,45,PRES001,Paracetamol 500mg,500mg,Dr. Sarah White,321-654-9870,FILL001,2024-11-01,2024-11-15,30,Completed,Main Pharmacy,Alice Johnson,T001,Every 30 days,None
+Jane Smith,987-654-3210,60,PRES002,Ibuprofen 200mg,200mg,Dr. Mark Lee,555-123-9876,FILL002,2024-11-03,2024-11-17,20,Pending,Downtown Pharmacy,Bob Williams,T002,Every 30 days,Insurance Issue
+Alex Brown,555-678-1234,34,PRES003,Amoxicillin 250mg,250mg,Dr. Emily Turner,321-765-4321,FILL003,2024-11-02,2024-11-16,40,Completed,Eastside Pharmacy,Carol Green,T003,Every 60 days,None
+Emily White,444-987-6543,29,PRES004,Loratadine 10mg,10mg,Dr. Peter Smithe,777-345-9087,FILL004,2024-11-05,2024-11-19,10,Completed,Main Pharmacy,Alice Johnson,T004,Every 30 days,None
+Robert Black,333-234-5678,50,PRES005,Metformin 500mg,500mg,Dr. Linda Green,555-890-1234,FILL005,2024-11-08,2024-11-22,60,Completed,Westside Pharmacy,Sarah White,T005,Every 90 days,None
+Patricia Gray,222-876-5432,63,PRES006,Hydrochlorothiazide 25mg,25mg,Dr. Nathan Roberts,987-321-6547,FILL006,2024-11-10,2024-11-24,30,Completed,Downtown Pharmacy,Bob Williams,T006,Every 30 days,None
+David Green,111-345-6789,39,PRES007,Omeprazole 20mg,20mg,Dr. Laura White,123-765-4321,FILL007,2024-11-07,2024-11-21,14,Canceled,Main Pharmacy,Carol Green,T007,Every 60 days,Medication Unavailable
+Linda Blue,999-123-4567,51,PRES008,Simvastatin 10mg,10mg,Dr. Oscar Brown,654-321-8765,FILL008,2024-11-12,2024-11-26,25,Completed,Westside Pharmacy,Sarah White,T008,Every 30 days,None
+Thomas Red,888-234-5678,57,PRES009,Levothyroxine 50mcg,50mcg,Dr. Peter Smithe,777-345-9087,FILL009,2024-11-06,2024-11-20,35,Pending,Downtown Pharmacy,Bob Williams,T009,Every 30 days,Insurance Issue
+Jessica Gold,777-876-5432,45,PRES010,Amlodipine 5mg,5mg,Dr. Nathan Roberts,987-321-6547,FILL010,2024-11-09,2024-11-23,50,Completed,Eastside Pharmacy,Alice Johnson,T010,Every 30 days,None
+John Green,432-876-5432,35,PRES011,Paracetamol 500mg,500mg,Dr. Sarah White,321-654-9870,FILL011,2024-11-10,2024-11-24,40,Completed,Main Pharmacy,Bob Williams,T011,Every 30 days,None
+Lisa White,555-432-9876,27,PRES012,Ibuprofen 200mg,200mg,Dr. Mark Lee,555-123-9876,FILL012,2024-11-05,2024-11-19,25,Completed,Downtown Pharmacy,Alice Johnson,T012,Every 30 days,None
+James Black,123-789-6543,50,PRES013,Amoxicillin 250mg,250mg,Dr. Emily Turner,321-765-4321,FILL013,2024-11-02,2024-11-16,35,Completed,Eastside Pharmacy,Bob Williams,T013,Every 60 days,None
+Helen Brown,987-345-8765,43,PRES014,Loratadine 10mg,10mg,Dr. Peter Smithe,777-345-9087,FILL014,2024-11-04,2024-11-18,15,Completed,Main Pharmacy,Carol Green,T014,Every 30 days,None
+Pat Clark,555-876-1234,60,PRES015,Metformin 500mg,500mg,Dr. Linda Green,555-890-1234,FILL015,2024-11-08,2024-11-22,50,Completed,Westside Pharmacy,Sarah White,T015,Every 90 days,None
+Brenda Allen,432-234-9876,54,PRES016,Hydrochlorothiazide 25mg,25mg,Dr. Nathan Roberts,987-321-6547,FILL016,2024-11-07,2024-11-21,40,Completed,Downtown Pharmacy,Bob Williams,T016,Every 30 days,None
+Mike Richards,777-123-4567,33,PRES017,Omeprazole 20mg,20mg,Dr. Laura White,123-765-4321,FILL017,2024-11-09,2024-11-23,20,Pending,Main Pharmacy,Alice Johnson,T017,Every 60 days,Medication Unavailable
+Gary Fox,555-234-5678,41,PRES018,Simvastatin 10mg,10mg,Dr. Oscar Brown,654-321-8765,FILL018,2024-11-10,2024-11-24,45,Completed,Westside Pharmacy,Sarah White,T018,Every 30 days,None
+Rachel Harris,444-987-6543,29,PRES019,Levothyroxine 50mcg,50mcg,Dr. Peter Smithe,777-345-9087,FILL019,2024-11-06,2024-11-20,30,Pending,Downtown Pharmacy,Bob Williams,T019,Every 30 days,Insurance Issue
+Tom Roberts,888-234-5678,55,PRES020,Amlodipine 5mg,5mg,Dr. Nathan Roberts,987-321-6547,FILL020,2024-11-11,2024-11-25,40,Completed,Eastside Pharmacy,Alice Johnson,T020,Every 30 days,None
