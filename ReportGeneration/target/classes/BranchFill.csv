@@ -1,0 +1,25 @@
+Branch Name,Prescription Name,Time Period,Volume
+Branch A,Ibuprofen,1/1/2024,150
+Branch B,Ibuprofen,1/1/2024,120
+Branch A,Amoxicillin,1/1/2024,100
+Branch B,Amoxicillin,1/1/2024,90
+Branch C,Ibuprofen,1/1/2024,130
+Branch A,Lisinopril,1/1/2024,70
+Branch B,Lisinopril,1/1/2024,60
+Branch C,Amoxicillin,1/1/2024,110
+Branch A,Ibuprofen,2/1/2024,140
+Branch B,Ibuprofen,2/1/2024,125
+Branch C,Ibuprofen,2/1/2024,135
+Branch A,Amoxicillin,2/1/2024,105
+Branch B,Amoxicillin,2/1/2024,95
+Branch C,Amoxicillin,2/1/2024,120
+Branch A,Lisinopril,2/1/2024,75
+Branch B,Lisinopril,2/1/2024,65
+Branch C,Lisinopril,2/1/2024,80
+Branch A,Ibuprofen,3/1/2024,145
+Branch B,Ibuprofen,3/1/2024,130
+Branch C,Ibuprofen,3/1/2024,140
+Branch A,Amoxicillin,3/1/2024,110
+Branch B,Amoxicillin,3/1/2024,100
+Branch C,Amoxicillin,3/1/2024,125
+Branch A,Lisinopril,3/1/2024,80

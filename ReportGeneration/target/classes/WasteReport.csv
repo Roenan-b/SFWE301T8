@@ -1,0 +1,21 @@
+Branch Name,Medication Name,Date Disposed,Quantity Disposed,Reason for Waste,Notes/Comments
+Main Branch,Ibuprofen,12/15/2024,50,Expired,Medication reached expiration date
+East Side Pharmacy,Amoxicillin,12/18/2024,30,Overstocked,Stock exceeded demand; unnecessary surplus
+West End Pharmacy,Lisinopril,12/20/2024,20,Overstocked,Overstock; medication nearing expiration
+Branch 4,Oxycodone,12/22/2024,10,Expired,Expired medications disposed of per policy
+Branch 5,Gabapentin,12/25/2024,15,Expired,Expired stock returned for disposal
+Branch 6,Metformin,12/27/2024,25,Expired,Medication expired and removed from inventory
+Branch 7,Albuterol,12/28/2024,10,Expired,Expired stock discarded
+Branch 8,Prednisone,12/30/2024,40,Overstocked,Excess stock leading to disposal
+Branch 9,Cetirizine,12/31/2024,30,Expired,Expired medications returned and discarded
+Branch 10,Simvastatin,1/2/2024,50,Expired,Expired stock removed from shelves
+Branch 11,Hydrochlorothiazide,1/5/2024,20,Expired,Medication expired before use
+Branch 12,Omeprazole,1/6/2024,35,Expired,Expired medication discarded per guidelines
+Branch 13,Tamsulosin,1/8/2024,10,Overstocked,Excess stock due to incorrect ordering
+Branch 14,Hydrocodone,1/10/2024,5,Expired,Disposal of expired narcotic medication
+Branch 15,Amlodipine,1/12/2024,15,Expired,Expired stock disposed of
+Branch 16,Aspirin,1/15/2024,25,Overstocked,Over-ordering led to surplus and disposal
+Branch 17,Montelukast,1/17/2024,20,Expired,Expired stock removed and discarded
+Branch 18,Alprazolam,1/19/2024,12,Overstocked,Excess inventory at the branch
+Branch 19,Zolpidem,1/20/2024,8,Expired,Expired medication discarded
+Branch 20,Fentanyl,1/22/2024,3,Expired,Disposed of expired controlled substances

@@ -1,0 +1,14 @@
+Type,Details,User ,Timestamp
+Login,User A logged in,User A,12/1/2024 21:27:55
+Purchase,Aspirin 30 tablets,User B,12/1/2024 21:27:55
+Inventory Update,Added 50 paracetamol tablets,User C,12/1/2024 21:27:55
+Login,User B logged in,User B,12/1/2024 21:30:10
+Inventory Update,Removed 20 expired ibuprofen,User C,12/1/2024 21:32:46
+Purchase,Paracetamol 10 tablets,User A,12/1/2024 21:35:12
+Inventory Check,Verified stock levels for aspirin,User C,12/1/2024 21:37:57
+Prescription Fill,Filled prescription for Drug Y,User D,12/1/2024 21:40:23
+Login,User C logged in,User C,12/1/2024 21:42:01
+Purchase,Ibuprofen 50 tablets,User B,12/1/2024 21:44:35
+Inventory Update,Added 100 vitamin C supplements,User A,12/1/2024 21:46:45
+Logout,User D logged out,User D,12/1/2024 21:48:22
+Purchase,Cough syrup 200ml,User C,12/1/2024 21:50:16

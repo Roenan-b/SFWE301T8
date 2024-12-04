@@ -1,0 +1,16 @@
+Branch Name,Total Waste,Waste Trends,Comparative Rank,Reason for Waste,Notes/Comments
+Main Branch,500 units,Decrease,1,"Expired: 50%, Overstocked: 30%, Incorrectly stored: 20%",Major reduction in overstock
+East Side Pharmacy,320 units,Increase,2,"Expired: 40%, Overstocked: 35%, Incorrectly stored: 25%",Overstocked medication issues
+West End Pharmacy,450 units,Stable,3,"Expired: 60%, Overstocked: 20%, Incorrectly stored: 20%",Expired medications being managed
+Branch 4,600 units,Decrease,4,"Expired: 55%, Overstocked: 25%, Incorrectly stored: 20%",Decrease due to stricter controls
+Branch 5,350 units,Increase,5,"Expired: 45%, Overstocked: 40%, Incorrectly stored: 15%",Increase in expired stock
+Branch 6,420 units,Increase,6,"Expired: 50%, Overstocked: 30%, Incorrectly stored: 20%",Overstocked items contributing
+Branch 7,330 units,Decrease,7,"Expired: 40%, Overstocked: 40%, Incorrectly stored: 20%",New stock management policy implemented
+Branch 8,380 units,Stable,8,"Expired: 45%, Overstocked: 35%, Incorrectly stored: 20%","Stable, but still some waste"
+Branch 9,310 units,Decrease,9,"Expired: 50%, Overstocked: 30%, Incorrectly stored: 20%",Better inventory tracking
+Branch 10,550 units,Stable,10,"Expired: 55%, Overstocked: 30%, Incorrectly stored: 15%",More expired waste than expected
+Branch 11,460 units,Increase,11,"Expired: 60%, Overstocked: 25%, Incorrectly stored: 15%",Issue with inventory rotation
+Branch 12,490 units,Stable,12,"Expired: 50%, Overstocked: 40%, Incorrectly stored: 10%",Overstock concerns
+Branch 13,440 units,Decrease,13,"Expired: 45%, Overstocked: 40%, Incorrectly stored: 15%",Improved stock management
+Branch 14,370 units,Decrease,14,"Expired: 50%, Overstocked: 30%, Incorrectly stored: 20%",Better control on expirations
+Branch 15,510 units,Stable,15,"Expired: 55%, Overstocked: 25%, Incorrectly stored: 20%",Stability in waste levels

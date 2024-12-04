@@ -1,0 +1,21 @@
+Branch Name,Total Inventory,Stock Status,Top Stocked Medications,Notes/Comments
+Main Branch,"1,500",Stable,"Ibuprofen, Amoxicillin, Lisinopril",Adequate stock for all key medications
+East Side Pharmacy,"1,300",Decreased,"Lisinopril, Atorvastatin",Stock of Atorvastatin running low
+West End Pharmacy,"1,200",Stable,"Losartan, Hydrochlorothiazide",Balanced stock with no immediate shortages
+Branch 4,"1,700",Increased,"Oxycodone, Clopidogrel",Surge in demand for Oxycodone
+Branch 5,"1,000",Stable,"Morphine, Gabapentin",Sufficient stock for pain management
+Branch 6,"1,200",Decreased,"Metformin, Sertraline",Shortage in Sertraline noted
+Branch 7,"1,100",Stable,"Albuterol, Furosemide",Stock levels remain steady
+Branch 8,"1,500",Increased,"Acetaminophen, Prednisone",Increased demand for Acetaminophen
+Branch 9,"1,000",Decreased,"Cetirizine, Simvastatin",Simvastatin stock running low
+Branch 10,"1,400",Increased,"Lisinopril, Levothyroxine",Increased stock for chronic condition meds
+Branch 11,"1,200",Stable,"Hydrochlorothiazide, Metoprolol","Stock stable, no major fluctuations"
+Branch 12,"1,600",Increased,"Omeprazole, Gabapentin",Surge in demand for Omeprazole
+Branch 13,900,Decreased,"Prednisone, Tamsulosin",Prednisone stock depleting
+Branch 14,"1,700",Stable,"Hydrocodone, Amlodipine",Balanced stock levels
+Branch 15,"1,300",Stable,"Aspirin, Montelukast",No immediate need for restocking
+Branch 16,"1,000",Decreased,"Losartan, Atorvastatin",Atorvastatin levels are low
+Branch 17,"1,200",Stable,"Alprazolam, Sertraline",Stock remains consistent
+Branch 18,"1,500",Increased,"Zolpidem, Fentanyl",Zolpidem and Fentanyl usage increasing
+Branch 19,"1,100",Decreased,"Diazepam, Enalapril",Enalapril stock is low
+Branch 20,"1,400",Stable,"Metformin, Simvastatin",Metformin and Simvastatin stock levels are stable

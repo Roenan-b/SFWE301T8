@@ -1,0 +1,21 @@
+Branch Name,Total Prescriptions Filled,Usage Trends,Comparative Rank,Top Prescribed Medications,Notes/Comments
+Main Branch,"1,200",Increase,1,"Ibuprofen, Amoxicillin",High demand for Ibuprofen
+East Side Pharmacy,"1,050",Stable,2,"Lisinopril, Atorvastatin",Stable prescription rates
+West End Pharmacy,"1,100",Decrease,3,"Losartan, Hydrochlorothiazide",Decrease in general prescriptions
+Branch 4,"1,300",Increase,4,"Oxycodone, Clopidogrel",Surge in prescriptions for Oxycodone
+Branch 5,950,Increase,5,"Morphine, Gabapentin",Increase in pain medication prescriptions
+Branch 6,"1,000",Decrease,6,"Metformin, Sertraline",Decrease in Sertraline usage
+Branch 7,"1,150",Stable,7,"Albuterol, Furosemide",Stable prescription fill rate
+Branch 8,"1,250",Increase,8,"Acetaminophen, Prednisone",Increased demand for pain management
+Branch 9,980,Decrease,9,"Cetirizine, Simvastatin",Decrease in Cetirizine prescriptions
+Branch 10,"1,180",Increase,10,"Lisinopril, Levothyroxine",Increased prescriptions for chronic conditions
+Branch 11,"1,050",Stable,11,"Hydrochlorothiazide, Metoprolol",Stable trend in prescriptions
+Branch 12,"1,200",Increase,12,"Omeprazole, Gabapentin",Rise in prescriptions for Gabapentin
+Branch 13,900,Decrease,13,"Prednisone, Tamsulosin",Reduced demand for Tamsulosin
+Branch 14,"1,300",Increase,14,"Hydrocodone, Amlodipine",Surge in prescriptions for Hydrocodone
+Branch 15,"1,150",Stable,15,"Aspirin, Montelukast",Stable prescription volume
+Branch 16,"1,000",Decrease,16,"Losartan, Atorvastatin",Decrease in usage of Losartan
+Branch 17,"1,100",Stable,17,"Alprazolam, Sertraline","Stable, consistent prescriptions"
+Branch 18,"1,250",Increase,18,"Zolpidem, Fentanyl",Increased usage of Zolpidem
+Branch 19,"1,080",Decrease,19,"Diazepam, Enalapril",Diazepam usage down
+Branch 20,"1,150",Stable,20,"Metformin, Simvastatin",Consistent usage across medications
