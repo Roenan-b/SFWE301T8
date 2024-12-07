@@ -1,45 +1,21 @@
 Claim ID,Patient Name,Patient Contact Info,Insurance Company,Policy Number,Prescription ID,Medication Name,Claim Status,Claim Amount,Date of Claim,Approval Date,Rejection Reason,Pharmacy Location,Pharmacist/Technician,Claim Processing Time (days),Notes
-CLAIM001,John Doe,123-456-7890,HealthFirst,H12345,PRES001,Paracetamol 500mg,Processed,$30.00,2024-11-01,2024-11-03,N/A,Main Pharmacy,Alice Johnson,2,N/A
-CLAIM002,Jane Smith,987-654-3210,MediCare,M98765,PRES002,Ibuprofen 200mg,Pending,$25.00,2024-11-03,N/A,N/A,Downtown Pharmacy,Bob Williams,N/A,Pending approval
-CLAIM003,Alex Brown,555-678-1234,BlueShield,B11223,PRES003,Amoxicillin 250mg,Processed,$40.00,2024-11-02,2024-11-04,N/A,Eastside Pharmacy,Carol Green,2,N/A
-CLAIM004,Emily White,444-987-6543,HealthPlus,HP45678,PRES004,Loratadine 10mg,Processed,$15.00,2024-11-05,2024-11-07,N/A,Main Pharmacy,Alice Johnson,2,N/A
-CLAIM005,Robert Black,333-234-5678,HealthFirst,H12345,PRES005,Metformin 500mg,Denied,$50.00,2024-11-08,N/A,No coverage,Westside Pharmacy,Sarah White,0,"Claim denied, no coverage"
-CLAIM006,Patricia Gray,222-876-5432,MediCare,M98765,PRES006,Hydrochlorothiazide 25mg,Processed,$18.00,2024-11-10,2024-11-12,N/A,Downtown Pharmacy,Bob Williams,2,N/A
-CLAIM007,David Green,111-345-6789,BlueCross,BC23456,PRES007,Omeprazole 20mg,Pending,$20.00,2024-11-07,N/A,N/A,Main Pharmacy,Carol Green,N/A,Awaiting approval
-CLAIM008,Linda Blue,999-123-4567,HealthPlus,HP98765,PRES008,Simvastatin 10mg,Processed,$30.00,2024-11-12,2024-11-15,N/A,Westside Pharmacy,Sarah White,3,N/A
-CLAIM009,Thomas Red,888-234-5678,HealthFirst,H12345,PRES009,Levothyroxine 50mcg,Pending,$35.00,2024-11-06,N/A,N/A,Downtown Pharmacy,Bob Williams,N/A,Pending processing
-CLAIM010,Jessica Gold,777-876-5432,MediCare,M98765,PRES010,Amlodipine 5mg,Processed,$40.00,2024-11-09,2024-11-11,N/A,Eastside Pharmacy,Alice Johnson,2,N/A
-CLAIM011,John Green,432-876-5432,BlueCross,BC23456,PRES011,Paracetamol 500mg,Pending,$30.00,2024-11-10,N/A,N/A,Main Pharmacy,Bob Williams,N/A,Awaiting approval
-CLAIM012,Lisa White,555-432-9876,BlueShield,B11223,PRES012,Ibuprofen 200mg,Processed,$20.00,2024-11-05,2024-11-07,N/A,Downtown Pharmacy,Alice Johnson,2,N/A
-CLAIM013,James Black,123-789-6543,HealthPlus,HP45678,PRES013,Amoxicillin 250mg,Denied,$45.00,2024-11-02,N/A,No coverage,Eastside Pharmacy,Bob Williams,0,No coverage under plan
-CLAIM014,Helen Brown,987-345-8765,MediCare,M98765,PRES014,Loratadine 10mg,Processed,$15.00,2024-11-04,2024-11-06,N/A,Main Pharmacy,Carol Green,2,N/A
-CLAIM015,Pat Clark,555-876-1234,HealthFirst,H12345,PRES015,Metformin 500mg,Processed,$50.00,2024-11-08,2024-11-10,N/A,Westside Pharmacy,Sarah White,2,N/A
-CLAIM016,Brenda Allen,432-234-9876,BlueShield,B11223,PRES016,Hydrochlorothiazide 25mg,Denied,$18.00,2024-11-07,N/A,Non-compliant,Downtown Pharmacy,Bob Williams,0,"Claim denied, non-compliant"
-CLAIM017,Mike Richards,777-123-4567,BlueCross,BC23456,PRES017,Omeprazole 20mg,Pending,$25.00,2024-11-09,N/A,N/A,Main Pharmacy,Alice Johnson,N/A,Pending approval
-CLAIM018,Gary Fox,555-234-5678,HealthPlus,HP98765,PRES018,Simvastatin 10mg,Processed,$30.00,2024-11-10,2024-11-12,N/A,Westside Pharmacy,Sarah White,2,N/A
-CLAIM019,Rachel Harris,444-987-6543,MediCare,M98765,PRES019,Levothyroxine 50mcg,Denied,$35.00,2024-11-06,N/A,No coverage,Downtown Pharmacy,Bob Williams,0,Coverage issue
-CLAIM020,Tom Roberts,888-234-5678,MediCare,M98765,PRES020,Amlodipine 5mg,Processed,$40.00,2024-11-11,2024-11-14,N/A,Eastside Pharmacy,Alice Johnson,3,N/A
-,,,,,,,,,,,,,,,N/A
-,,,,,,,,,,,,,,,Pending
-,,,,,,,,,,,,,,,N/A
-,,,,,,,,,,,,,,,N/A
-,,,,,,,,,,,,,,,Claim rejected
-,,,,,,,,,,,,,,,N/A
-,,,,,,,,,,,,,,,Pending
-,,,,,,,,,,,,,,,N/A
-,,,,,,,,,,,,,,,No coverage
-,,,,,,,,,,,,,,,N/A
-,,,,,,,,,,,,,,,Pending
-,,,,,,,,,,,,,,,N/A
-,,,,,,,,,,,,,,,N/A
-,,,,,,,,,,,,,,,Pending
-,,,,,,,,,,,,,,,N/A
-,,,,,,,,,,,,,,,N/A
-,,,,,,,,,,,,,,,"Denied, no coverage"
-,,,,,,,,,,,,,,,N/A
-,,,,,,,,,,,,,,,Pending approval
-,,,,,,,,,,,,,,,N/A
-,,,,,,,,,,,,,,,Pending
-,,,,,,,,,,,,,,,N/A
-,,,,,,,,,,,,,,,No coverage
-,,,,,,,,,,,,,,,N/A
+CLAIM001,John Doe,123-456-7890,HealthFirst,H12345,PRES001,Paracetamol 500mg,Processed,$30.00 ,11/1/2024,11/3/2024,N/A,Main Pharmacy,Alice Johnson,2,N/A
+CLAIM002,Jane Smith,987-654-3210,MediCare,M98765,PRES002,Ibuprofen 200mg,Pending,$25.00 ,11/3/2024,N/A,N/A,Downtown Pharmacy,Bob Williams,N/A,Pending approval
+CLAIM003,Alex Brown,555-678-1234,BlueShield,B11223,PRES003,Amoxicillin 250mg,Processed,$40.00 ,11/2/2024,11/4/2024,N/A,Eastside Pharmacy,Carol Green,2,N/A
+CLAIM004,Emily White,444-987-6543,HealthPlus,HP45678,PRES004,Loratadine 10mg,Processed,$15.00 ,11/5/2024,11/7/2024,N/A,Main Pharmacy,Alice Johnson,2,N/A
+CLAIM005,Robert Black,333-234-5678,HealthFirst,H12345,PRES005,Metformin 500mg,Denied,$50.00 ,11/8/2024,N/A,No coverage,Westside Pharmacy,Sarah White,0,"Claim denied: no coverage"
+CLAIM006,Patricia Gray,222-876-5432,MediCare,M98765,PRES006,Hydrochlorothiazide 25mg,Processed,$18.00 ,11/10/2024,11/12/2024,N/A,Downtown Pharmacy,Bob Williams,2,N/A
+CLAIM007,David Green,111-345-6789,BlueCross,BC23456,PRES007,Omeprazole 20mg,Pending,$20.00 ,11/7/2024,N/A,N/A,Main Pharmacy,Carol Green,N/A,Awaiting approval
+CLAIM008,Linda Blue,999-123-4567,HealthPlus,HP98765,PRES008,Simvastatin 10mg,Processed,$30.00 ,11/12/2024,11/15/2024,N/A,Westside Pharmacy,Sarah White,3,N/A
+CLAIM009,Thomas Red,888-234-5678,HealthFirst,H12345,PRES009,Levothyroxine 50mcg,Pending,$35.00 ,11/6/2024,N/A,N/A,Downtown Pharmacy,Bob Williams,N/A,Pending processing
+CLAIM010,Jessica Gold,777-876-5432,MediCare,M98765,PRES010,Amlodipine 5mg,Processed,$40.00 ,11/9/2024,11/11/2024,N/A,Eastside Pharmacy,Alice Johnson,2,N/A
+CLAIM011,John Green,432-876-5432,BlueCross,BC23456,PRES011,Paracetamol 500mg,Pending,$30.00 ,11/10/2024,N/A,N/A,Main Pharmacy,Bob Williams,N/A,Awaiting approval
+CLAIM012,Lisa White,555-432-9876,BlueShield,B11223,PRES012,Ibuprofen 200mg,Processed,$20.00 ,11/5/2024,11/7/2024,N/A,Downtown Pharmacy,Alice Johnson,2,N/A
+CLAIM013,James Black,123-789-6543,HealthPlus,HP45678,PRES013,Amoxicillin 250mg,Denied,$45.00 ,11/2/2024,N/A,No coverage,Eastside Pharmacy,Bob Williams,0,No coverage under plan
+CLAIM014,Helen Brown,987-345-8765,MediCare,M98765,PRES014,Loratadine 10mg,Processed,$15.00 ,11/4/2024,11/6/2024,N/A,Main Pharmacy,Carol Green,2,N/A
+CLAIM015,Pat Clark,555-876-1234,HealthFirst,H12345,PRES015,Metformin 500mg,Processed,$50.00 ,11/8/2024,11/10/2024,N/A,Westside Pharmacy,Sarah White,2,N/A
+CLAIM016,Brenda Allen,432-234-9876,BlueShield,B11223,PRES016,Hydrochlorothiazide 25mg,Denied,$18.00 ,11/7/2024,N/A,Non-compliant,Downtown Pharmacy,Bob Williams,0,"Claim denied: non-compliant"
+CLAIM017,Mike Richards,777-123-4567,BlueCross,BC23456,PRES017,Omeprazole 20mg,Pending,$25.00 ,11/9/2024,N/A,N/A,Main Pharmacy,Alice Johnson,N/A,Pending approval
+CLAIM018,Gary Fox,555-234-5678,HealthPlus,HP98765,PRES018,Simvastatin 10mg,Processed,$30.00 ,11/10/2024,11/12/2024,N/A,Westside Pharmacy,Sarah White,2,N/A
+CLAIM019,Rachel Harris,444-987-6543,MediCare,M98765,PRES019,Levothyroxine 50mcg,Denied,$35.00 ,11/6/2024,N/A,No coverage,Downtown Pharmacy,Bob Williams,0,Coverage issue
+CLAIM020,Tom Roberts,888-234-5678,MediCare,M98765,PRES020,Amlodipine 5mg,Processed,$40.00 ,11/11/2024,11/14/2024,N/A,Eastside Pharmacy,Alice Johnson,3,N/A
