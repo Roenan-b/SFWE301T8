@@ -167,6 +167,7 @@ public class ReportGeneration {
             String[] complianceData = ComplianceInfoReport();
 
             // Display a menu for the user to select the report they want to generate
+            //TESTING PURPOSES ONLY
             while (programOn) {
                 System.out.println("\n\nSelect a report");
                 System.out.println("1. Inventory");
